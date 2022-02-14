@@ -26,4 +26,4 @@ Other Features of Simpleplot
 
 The simpleplot module can do more that just plot lines on a graph.  As you saw in the lesson, you can modify the x- and y-axis labels, change the title of your plot, and make the plot smaller or larger.  However, you can also change the format of the graph and alter how the data is displayed. The document below explains the commands available in the simpleplot module in greater detail. Try rewriting your code to use the simpleplot.plot_bars() command outlined in the document, and see what happens when you run your program!
 
-Simpleplot DocumentationLinks to an external site.
+Simpleplot DocumentationLinks to an external site. https://files.projectstem.org/CSFundamentals/CSFundamentalsCourseResources/CourseDocuments/2.7_Simpleplot_Documentation.pdf
