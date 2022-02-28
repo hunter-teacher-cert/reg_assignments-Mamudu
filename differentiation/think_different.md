@@ -15,12 +15,19 @@ Differentiated assessments can be done by designing and providing various assess
 # From a list of Zach Burrus, Dave Messer and Judith Dodge, here are some ways of differentiating assessments:
 
 Designing tiered activities
+
 Scaffolding struggling learners
+
 Challenging advanced learners with more mid-stimulating activities
+
 Adjusting questions
+
 Compacting
+
 Flexible grouping
+
 Flexible assignments and tasks based on students’ learning styles
+
 Learning contracts
 
 
