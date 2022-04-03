@@ -15,13 +15,13 @@
 
   ## Your task - Build a 2 player tic tac toe game in Python
   
-# What we are going to do?
+# What you are going to do?
 You are going to build a two-player tic-tac-toe game, which you can play in the command-line. Initially, you’ll make an empty game board and then you’ll take inputs from the players and we’ll check for the winning condition and if the whole board gets filled and no one wins, we’ll declare the result as “Tie” and ask users if they want to restart the game.
 
 # What will you use?
-You will build this game using Python 3, so make sure you have it installed on your laptop/computer and we are good to go.
+You will build this game using Python 3, so make sure you have it installed on your laptop/computer and we are good to go or on IDE.
 
-# What we’ll learn?
+# What wyou’ll learn?
 After building this game, you can get a pretty clear idea about dictionaries in python, how to access dictionaries, how to iterate over dictionaries, for loop, if-else conditions and functions in python.
 
 # How does the game work?
@@ -43,4 +43,4 @@ Create or build a tic tac toe game involves understanding the following skills a
 3. Using loops and functions
 
 It is really not a complicated task but it is very useful application in Python. So, the best and the most fun way to learn any programming language for me has always been by developing a fun project like a simple game or some project that I would use in my daily life.
-So, when I started to learn Python, I started with this No Starch Press published book “Automate The Boring Stuff With Python” which is just awesome and If you are looking for a book to get started learning python, I would recommend you to go through this book. Its very beginner-friendly and it covers almost all the basic topics of python. So, while solving the exercises in this book, I came across this TicTacToe game implementation in python.
+"So, when I started to learn Python, I started with this No Starch Press published book “Automate The Boring Stuff With Python” which is just awesome and If you are looking for a book to get started learning python, I would recommend you to go through this book. Its very beginner-friendly and it covers almost all the basic topics of python. So, while solving the exercises in this book, I came across this TicTacToe game implementation in python".
