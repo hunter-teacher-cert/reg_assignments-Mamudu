@@ -104,3 +104,10 @@ The subroutine name is identical everywhere it is used (capitals matter)
 The subroutine call is not indented inside the subroutine
 
 The subroutine is defined before it has been called
+
+# Differentiated Independent work on Slide
+1. modify the task
+
+2. Trace the Function
+
+3. Create a Function
