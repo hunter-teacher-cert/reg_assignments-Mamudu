@@ -100,5 +100,7 @@ add_five(userInput)
 
 # Misconceptions & Errors to Watch Out For
 The subroutine name is identical everywhere it is used (capitals matter)
+
 The subroutine call is not indented inside the subroutine
+
 The subroutine is defined before it has been called
