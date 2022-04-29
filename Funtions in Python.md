@@ -2,6 +2,9 @@
 
 Slide: https://docs.google.com/presentation/d/1iDRUWBHDxiOSLx2RhLK9_AQEmvQ5Wpzc1S50U9GlC0I/edit?usp=sharingin 
 
+# NYS Computer Science Standards 
+9-12.CT.1    9-12.CT.4  9-12.CT.5
+
 # TEACHER NOTES - Functions
 A subroutine is just a ‘package’ for code. You can write any code inside a subroutine, including calling other subroutines (we’ll get on to that bit later).
 
