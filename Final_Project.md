@@ -114,3 +114,8 @@ The subroutine is defined before it has been called
 2. Trace the Function
 
 3. Create a Function
+
+## Feedback during the Design Stage
+I did not have a Do Now. My team members shared with me possible Do Now including writing piece that are open ended.
+
+Also I had one student assignment with NO differentiation. I ended up with 3 Differentiated assignments as shown above.
